@@ -2,7 +2,7 @@
   "name": "express-api-ts-rest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "dev": "tsc",
     "start": "tsc && node --unhandled-rejections=strict ./dist/main.js"
